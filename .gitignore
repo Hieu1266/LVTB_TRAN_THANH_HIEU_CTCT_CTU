@@ -51,4 +51,4 @@ next-env.d.ts
 /actions-runner
 /minikube-linux-amd64
 minikube-linux-amd64
-.gitignore
+./.gitignore
